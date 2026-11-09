@@ -9,5 +9,5 @@ Sebuah tool sederhana berbasis Python untuk menampilkan informasi publik tentang
 ## Cara Install & Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username_anda/termux-ip-info.git
+   git clone https://github.com/paxxpi0oowtermux-ip-info.git
    cd termux-ip-info
